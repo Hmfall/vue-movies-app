@@ -1,0 +1,38 @@
+@use "sass:math";
+@import "null";
+@import "fonts";
+@import "mixins";
+@import "palette";
+@import "properties";
+@import "variables";
+
+body {
+   background: var(--background-default);
+}
+
+.wrapper {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   min-height: 100vh;
+   overflow: hidden;
+}
+
+.main {
+   flex: 1 1 auto;
+}
+
+.lock {
+   height: 100vh;
+   overflow-y: hidden;
+}
+
+a, span, p {
+   transition: color $transition-s ease;
+}
+.container {
+   max-width: $containerWidth + px;
+   margin: 0 auto;
+   padding: 0 math.div($containerPadding, 2) + px;
+   height: 100%;
+}

@@ -1,0 +1,16 @@
+$maxWidthContainer: 1280;
+$containerPadding: 40;
+$containerWidth: $maxWidthContainer + $containerPadding;
+$minWidth: 320;
+
+$xl: $containerWidth + px;
+$lg: 991.98px;
+$md: 767.98px;
+$sm: 576.98px;
+$xs: 0px;
+
+$_xl: $containerWidth;
+$_lg: 991.98;
+$_md: 767.98;
+$_sm: 576.98;
+$_xs: 0;

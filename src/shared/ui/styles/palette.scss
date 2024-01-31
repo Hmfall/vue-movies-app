@@ -1,0 +1,98 @@
+html[data-theme="light"]  {
+   --default-100: #ffffff;
+   --default-200: #ffffff;
+   --default-300: #ffffff;
+   --default-400: #ffffff;
+   --default-500: #f6f6f6;
+   --default-600: #e6e6e6;
+   --default-700: #717171;
+   --default-800: #666666;
+   --default-900: #000000;
+
+   --accent-100: #ffd2da;
+   --accent-200: #ffa5b5;
+   --accent-300: #ff778f;
+   --accent-400: #ff4a6a;
+   --accent-500: #ff1d45;
+   --accent-600: #cc1737;
+   --accent-700: #991129;
+   --accent-800: #660c1c;
+   --accent-900: #33060e;
+
+   --background-default: var(--default-100);
+   --background-default-hover: var();
+
+   --background-secondary: var(--default-500);
+   --background-secondary-hover: var(--default-600);
+
+   --background-tertiary: var(--default-700);
+   --background-tertiary-hover: var(--default-700);
+
+   --background-accent: var(--accent-500);
+   --background-accent-hover: var(--accent-400);
+
+   --foreground-default: var(--default-900);
+   --foreground-default-hover: var();
+
+   --foreground-secondary: var(--default-800);
+   --foreground-secondary-hover: var();
+
+   --foreground-tertiary: var(--default-700);
+   --foreground-tertiary-hover: var();
+
+   --foreground-accent: var(--accent-500);
+   --foreground-accent-hover: var(--accent-400);
+
+   --foreground-on-accent: var(--default-100);
+   --foreground-on-accent-hover: var(--default-100);
+}
+
+html[data-theme="dark"] {
+   --default-100: #ececec;
+   --default-200: #8a8a8a;
+   --default-300: #7d7d7d;
+   --default-400: #ffffff8f;
+   --default-500: #292929;
+   --default-600: #1c1c1e;
+   --default-700: #000000;
+   --default-800: #000000;
+   --default-900: #0f0f10;
+
+   --accent-100: #ffd2da;
+   --accent-200: #ffa5b5;
+   --accent-300: #ff778f;
+   --accent-400: #ff4a6a;
+   --accent-500: #ff1d45;
+   --accent-600: #cc1737;
+   --accent-700: #991129;
+   --accent-800: #660c1c;
+   --accent-900: #33060e;
+
+   --background-default: var(--default-900);
+   --background-default-hover: var();
+
+   --background-secondary: var(--default-500);
+   --background-secondary-hover: var(--default-600);
+
+   --background-tertiary: var();
+   --background-tertiary-hover: var();
+
+   --background-accent: var(--accent-500);
+   --background-accent-hover: var(--accent-400);
+
+   --foreground-default: var(--default-100);
+   --foreground-default-hover: var();
+
+   --foreground-secondary: var(--default-200);
+   --foreground-secondary-hover: var(--foreground-default);
+
+   --foreground-tertiary: var();
+   --foreground-tertiary-hover: var();
+
+   --foreground-accent: var(--accent-500);
+   --foreground-accent-hover: var(--accent-500);
+
+
+   --foreground-on-accent: var(--foreground-default);
+   --foreground-on-accent-hover: var(--foreground-default);
+}

@@ -1,0 +1,5 @@
+src/shared/api/config/consts.ts
+/dist
+stats.html
+node_modules
+.idea

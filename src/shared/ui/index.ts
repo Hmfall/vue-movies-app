@@ -1,0 +1,9 @@
+export { default as MainLoyout } from './loyouts/MainLoyout.vue';
+export { default as Typography } from './Typography/Typography.vue';
+export { default as Button } from './Button/Button.vue';
+export { default as Icon } from './Icon/Icon.vue';
+export { default as Error } from './Error/Error.vue';
+export { default as Select } from './Select/Select.vue';
+export { default as Loader } from './Loader/Loader.vue';
+export { default as Popup } from './Popup/Popup.vue';
+export { default as Input } from './Input/Input.vue';
