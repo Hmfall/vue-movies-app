@@ -62,3 +62,14 @@ yarn install
 [![fsd]( https://img.shields.io/badge/Feature--Sliced-Design?style=for-the-badge&color=F2F2F2&labelColor=262224&logoWidth=10&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABISURBVHgB7dKxCQAgDETR0w2cws0cys2cwhEUBbsggikCuVekDHwSQFlYo7Q+8KnmtHdFWMdk2cl5wSsbxGSZw8dm8pX9ZHUTMBUgGU2F718AAAAASUVORK5CYII=)](https://feature-sliced.design/)
 [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 [![typescript]( https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+<br />
+
+## Demo (screenshots)
+![bandicam 2024-01-30 22-11-41-217](https://github.com/Hmfall/vue-movies-app/assets/148013305/52ca6359-68ec-4903-bad9-d4778efb7d2c)
+
+<br />
+
+![bandicam 2024-01-30 22-11-47-230](https://github.com/Hmfall/vue-movies-app/assets/148013305/c8922bf9-25b5-43d6-a09f-1137b61a6d58)
+
+
